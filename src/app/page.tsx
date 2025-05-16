@@ -1,5 +1,9 @@
-import Image from "next/image";
+
+
+
 
 export default function Home() {
-  return <div>Jake</div>;
+  return <div className="flex gap-2 mt-4">
+ 
+</div>
 }
